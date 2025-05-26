@@ -51,3 +51,12 @@ A Flutter-based multiplayer party game where players must identify the Undercove
 5. Game continues until win condition is met:
    - Citizens win if Undercover is eliminated
    - Undercover wins if only two players remain 
+
+
+## Images
+
+![image](https://github.com/user-attachments/assets/91e870ae-aa7d-4604-9604-c3ff601ef3b9)
+
+
+![image](https://github.com/user-attachments/assets/d52cf10c-cbd8-4c0a-adfa-9d3b2ed233ac)
+
